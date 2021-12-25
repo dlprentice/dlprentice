@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dlprentice
-- 👀 I’m interested in coding, and automation.
-- 🌱 I’m currently learning Powershell, and Power Platform.
-- 💞️ I’m looking to collaborate on many projects.
+- 👀 I’m interested in coding, and automation
+- 🌱 I’m currently learning JavaScript
+- 👨‍💻 I've discovered I have a passion for low code and no code development using Microsoft Power Apps
+- 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me davidleeprentice@outlook.com
 
 <!---
