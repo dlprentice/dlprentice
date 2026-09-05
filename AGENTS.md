@@ -1,6 +1,8 @@
 # dlprentice GitHub profile: agent guide
 
-Read this before changing anything. It is the only instruction file in the repo; `CLAUDE.md` just points here.
+Before this file, read any ancestor `AGENTS.md` files from outermost to nearest, including those
+above the Git root that automatic discovery may omit. Do not copy private machine instructions here.
+This is the repository-specific guide; `CLAUDE.md` imports it. Nearer instructions win.
 
 This is `dlprentice/dlprentice`, the special repository whose `README.md` GitHub shows on David's public profile
 (https://github.com/dlprentice). It holds that README, `.gitattributes`, `.gitignore` and these two guide files (`AGENTS.md`, `CLAUDE.md`), nothing else.
