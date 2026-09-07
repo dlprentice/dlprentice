@@ -9,4 +9,6 @@ This is `dlprentice/dlprentice`, the special repository whose `README.md` GitHub
 
 It is public, and a push is live at once. Never add anything about the internals of David's businesses (clients,
 infrastructure, code, plans) or personal details beyond what the README already shows: no credentials, private
-paths or machine details. When in doubt, ask David. One branch, `main`, pushed to `origin`; plain commit messages.
+paths or machine details. Ask when a proposed disclosure is uncertain. `main` is the default branch;
+use useful feature branches and repo-local worktrees under the machine policy. Make small verified commits
+with plain messages and push authorized changes to the existing origin; never force-push or start auth flows.
