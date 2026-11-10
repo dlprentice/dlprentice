@@ -1,1 +1,4 @@
 nul
+
+# Claude Code per-machine settings: can hold approved commands verbatim
+.claude/settings.local.json
